@@ -1,0 +1,14 @@
+{
+"name" : "copyFilename" ,
+"tag" : [
+ "%SCRIPT",
+ "app.clipboard = editor.fileName();"
+ ],
+"description" : [
+ "copy filename to clipboard"
+ ],
+"abbrev" : "" ,
+"trigger" : "" ,
+"menu" : "" ,
+"shortcut" : ""
+}
